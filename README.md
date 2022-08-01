@@ -1,1 +1,1 @@
-# harvad-lectures
+# harvard-lectures
