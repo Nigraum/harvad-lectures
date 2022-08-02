@@ -4,14 +4,14 @@
 int main(void)
 {
     // Prompt user for x
-    long x = get_long("x: ");
+    float x = get_float("x: ");
 
     // Prompt user for y
-    long y = get_long("y: ");
+    float y = get_float("y: ");
 
-    // Prompt user for z
-    long z = x + y;
+    // Divide x by y
+    float z = x / y;
 
     // Perform addition
-    printf("%li\n", z);
+    printf("%f\n", z);
 }
