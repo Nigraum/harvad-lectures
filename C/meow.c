@@ -6,6 +6,6 @@ int main(void)
     while (i < 3)
     {
         printf("meow.\n");
-        i = i + 1;
+        i++;
     }
 }
